@@ -1,0 +1,15 @@
+<div *ngIf="property">
+
+  <h2>{{ property.address | uppercase }} Details</h2>
+  <div>
+    <span>ID: </span>{{property.id}}
+    <span>Address: </span>{{property.address}}
+    <span>City: </span>{{property.city}}
+  </div>
+  <div>
+    <label>name:
+      <input [(ngModel)]="property.address" placeholder="name"/>
+    </label>
+  </div>
+
+</div>
