@@ -1,0 +1,13 @@
+@import "../../app.component.css";
+
+.center {
+  margin: auto;
+}
+
+.header1 {
+  font-size: 2em;
+}
+
+.header2 {
+  font-size: 1em;
+}
