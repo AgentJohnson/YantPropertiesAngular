@@ -1,6 +1,6 @@
 # YantPropertiesAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+This project is intended as a prototype for a replacement web app for Birmingham RC club.
 
 ## Development server
 
